@@ -1,3 +1,3 @@
 int calculate() {
-  return 8;
+  return 00;
 }
